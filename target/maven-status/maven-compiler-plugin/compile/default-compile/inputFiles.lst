@@ -1,0 +1,7 @@
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/dto/BaseADto.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/controller/exceptions/ResourceExceptionHandler.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/repository/BaseARepository.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/BaseAApplication.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/entity/BaseA.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/controller/exceptions/type/DataIntegrationException.java
+/home/filipe/Documentos/avaliação/baseA/src/main/java/basea/baseA/controller/exceptions/StandardError.java
