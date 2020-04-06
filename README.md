@@ -10,5 +10,16 @@ SpringBoot
 Maven
 
 Lombok 
-	O Lombok é uma biblioteca Java focada em produtividade e redução de código que por meio de anotações adicionadas ao código elimina a necessidade de criarmos códigos default como por exemplo os métodos 	 getters e setters, pois o lombok os geram automaticamente.
+
+Build
+Após clonar o projeto do BitBucket, realizar os passos a seguir:
+
+Adicionar as seguintes variaveis de ambiente:
+JDBC_URL
+BANCO_USER
+BANCO_PASS
+
+mvn install
+mvn eclipse:eclipse
+mvn spring-boot:run
 
