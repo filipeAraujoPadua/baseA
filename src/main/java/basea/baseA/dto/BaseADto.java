@@ -14,5 +14,5 @@ public class BaseADto {
 	private int cpf;
 	private String nome;
 	private String endereco;
-	private List<ListaDeDividaDto> listaDivida;
+	//private List<ListaDeDividaDto> listaDivida;
 }
